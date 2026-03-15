@@ -38,4 +38,3 @@ The workflow is divided into two steps:
 
 ---
 
-## Project Structure
